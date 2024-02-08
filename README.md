@@ -74,7 +74,7 @@ Contributing
 Contributions are welcome! If you have suggestions, improvements, or additional analyses, feel free to open an issue or a pull request.
 
 # Contact
-For questions, suggestions, or collaborations, feedbacks pls   feel free to contact at this mail - radheloyla@gmail.com
+For questions, suggestions, or collaborations, feedbacks pls   feel free to contact at this mail - gouravkaushal255@gmail.com
 
 # contacts :
-# mail id - radheloyla@gmail.com
+# mail id - gouravkaushal255@gmail.com
